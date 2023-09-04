@@ -34,7 +34,7 @@
   }
   
   #newGrocery {
-    background-color: rgb(202, 8, 8);
+    background-color: rgb(255, 255, 255);
     color: var(--comment);
     padding: 0.5em;
     width: 20em;
@@ -68,7 +68,7 @@
   }
   
   .groceryItem {
-    background-color: rgb(252, 206, 1);
+    background-color: rgb(0, 0, 0);
     color: var(--background);
     margin: 0.5em;
     width: 24em;
